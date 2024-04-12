@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"name": "ims-mart",
+			"path": "../../.."
+		},
+		{
+			"name": "zero hero",
+			"path": "D:/zero hero"
+		},
+		{
+			"name": "202103103510239",
+			"path": "../../../../../../../xampp/htdocs/202103103510239"
+		},
+		{
+			"name": "Vs_Code",
+			"path": "D:/Vs_Code"
+		},
+		{
+			"name": "pdf_tools",
+			"path": "D:/pdf_tools"
+		},
+		{
+			"name": "nodejs",
+			"path": "../../../../nodejs"
+		},
+		{
+			"name": "Car-rental-system-nodejs-mongoDB (1)",
+			"path": "D:/sem 6/projects/renil/Car-rental-system-nodejs-mongoDB (1)"
+		},
+		{
+			"name": "library-management-system-tutorial-main",
+			"path": "D:/sem 6/projects/renil/library-management-system-tutorial-main"
+		},
+		{
+			"name": "ims",
+			"path": "../../../../ims"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "202103103510239",
+		"java.project.sourcePaths": [
+			""
+		]
+	}
+}
