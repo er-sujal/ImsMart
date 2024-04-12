@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Devloped by sujal kakadiya
+### For Quire's LinkedIn : https://linkedin.com/in/sujalkakadiya
+
 ### `npm start`
 
 Runs the app in the development mode.\
