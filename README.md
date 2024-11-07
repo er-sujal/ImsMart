@@ -2,6 +2,14 @@
 
 IMS Mart is a fully functional e-commerce web application built during a summer internship project. It features product listing, inventory management, and a user-friendly interface for both customers and administrators. The platform leverages the MERN stack for both backend and frontend development.
 
+## Demo video
+
+
+https://github.com/user-attachments/assets/6b319131-8f3a-4c90-b25f-2e4449253339
+
+
+
+
 ## Key Features:
 - **Product Listing**: Displays products in different categories with detailed descriptions.
 - **Inventory Management**: Admins can manage products including adding, editing, and deleting product information.
