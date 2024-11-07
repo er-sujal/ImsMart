@@ -62,18 +62,29 @@ In the final week, I added the finishing touches to the admin panel:
 ## Screenshots
 
 ### Login & Signup
-![Login and Signup](figures/login-signup.png)
+![image](https://github.com/user-attachments/assets/f9d64e98-7e8d-49af-84e8-fbb9eb4a1f25)
+![image](https://github.com/user-attachments/assets/c3101e65-d125-4210-b43a-88b55400dabe)
 
 ### Home Page
-![Home Page](figures/homepage.png)
+![image](https://github.com/user-attachments/assets/85ba4b46-6649-492a-9511-652ce58c60ec)
 
-### Product Listings
-![Product Listings](figures/product-listings.png)
+### Popular Section
+![image](https://github.com/user-attachments/assets/1aeb5810-bca6-45e8-8c8c-ed71e54f745c)
+
+### Category Wise listings 
+![image](https://github.com/user-attachments/assets/ee334ef0-19d5-408e-8103-fb28603e2d41)
+
+### Product view
+![image](https://github.com/user-attachments/assets/1dd83cb8-e584-47fa-9563-26ca93e7499e)
+
+### Admin Panel - Product Listings
+![image](https://github.com/user-attachments/assets/d41abe60-218c-4653-92d2-072bf3bfbbb8)
 
 ### Cart View
-![Cart View](figures/cart-view.png)
+![image](https://github.com/user-attachments/assets/7393e8ce-c029-4425-b63b-f248094ea256)
 
 ### Admin Panel - Product Management
-![Admin Panel](figures/admin-panel.png)
+![image](https://github.com/user-attachments/assets/9a63b8fc-4d30-4f99-8b1f-2a2a734d1398)
+
 
 ---
